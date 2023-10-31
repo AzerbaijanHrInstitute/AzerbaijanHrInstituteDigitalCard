@@ -6,9 +6,8 @@ body, h1, h2, p {
   
   /* Apply some basic styles to the body */
   body {
-    font-family: 'Montserrat', sans-serif;
-    background-color: #0a082c;
-    text-align: center;
+     background-image: url("photo_2023-10-31 1.48.04 PM.jpeg");
+     text-align: center;
   }
   
   /* Style the card container */
